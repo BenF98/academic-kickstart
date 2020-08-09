@@ -71,4 +71,6 @@ user_groups:
 - Visitors
 ---
 
-I am a marine biogeochemist interested in the cycling of carbon, nitrogen and metals in the water column and marine sediments. My research is typically interdisciplinary and utilises chemical extraction techniques and isotopic analyses alongisde biological methods for species identification. Much of my work is conducted in the context of climate change, and has involved work on smaples from both poles representing areas undergoing rapid climate and chemical change. My wider interests include geophysical influences on marine chemistry at the land ocean interface and the detection of organic compounds as signatures of past life on other planets.
+I am a marine biogeochemist interested in the cycling of carbon, nitrogen and metals in the water column and marine sediments. My research is typically interdisciplinary and utilises chemical extraction techniques and isotopic analyses alongisde biological methods for species identification. 
+
+Much of my work is conducted in the context of climate change, and has involved work on smaples from both poles representing areas undergoing rapid climate and chemical change. My wider interests include geophysical influences on marine chemistry at the land ocean interface and the detection of organic compounds as signatures of past life on other planets.
