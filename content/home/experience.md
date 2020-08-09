@@ -25,11 +25,8 @@ date_format = "Jan 2006"
   date_start = "2017-01-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+ Thesis title: How do climate-driven shifts in phytoplankton composition influence carbon and nitrogen uptake and recycling along the west Antarctic Peninsula?
+  Supervised by: Dr Sian Henley (Edinburgh), Dr Alex Poulton (Lyell Centre), Prof Keith Davidson (Scottish Association for Marine Science), Prof Mike Meredith (British Antarctic Survey). My PhD project aims to better understand the climate driven processes influencing phytoplankton community composition and biogeochemistry (C & N cycling) along the west Antarctic Peninsula by creating a data time series over the austral summer. This project is based around conducting an Antarctic field season in 2021/22, performing phytoplankton species identification alongside C & N uptake experiments. My PhD project is part of and funded by the E4 DTP (NERC)
   """
 
 [[experience]]
