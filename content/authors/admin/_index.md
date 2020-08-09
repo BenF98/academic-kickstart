@@ -23,12 +23,12 @@ bio:
 interests:
 - Marine Biogeochemistry
 - Chemical Oceanography 
-- Marine microbes & phytoplankton
+- Marine Microbiology
 - Astrobiology
 
 education:
   courses:
-  - course: PhD in Marine Biogeochemistry
+  - course: PhD in Marine Biogeochemistry (Ongoing)
     institution: University of Edinburgh
     year: 
   - course: MSc by Research in Earth Sciences
@@ -71,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-I am a marine biogeochemist interested in the cycling of carbon, nitrogen and trace metals in the open ocean and marine sediments. My work applies analytical chemical techniques and isotopic analyses to understand the role of organic compounds in marine carbon and nitrogen cycling. Recently my work has also incorporated phytoplankton studies to understand the link between phytoplankton species composition and C&N uptake. My wider interests include geophysical influences on marine chemistry at the land ocean interface and the detection of organic compounds as signatures of past life on other planets.
+I am a marine biogeochemist interested in the cycling of carbon, nitrogen and metals in the open ocean and marine sediments. My work applies analytical chemical extraction techniques and isotopic analyses alongisde biological methods to understand the fate of organic compounds in marine chemical cycles. My wider interests include geophysical influences on marine chemistry at the land ocean interface and the detection of organic compounds as signatures of past life on other planets.
