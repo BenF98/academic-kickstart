@@ -55,10 +55,10 @@ This project was supported by grants awards to Changing Arctic Ocean ChAOS, NERC
   date_start = "2019-06-01"
   date_end = ""
   description = """ I have teaching experience on multiple modules across different universities. I am particuarly interested in skills based modules, desgined to teach fundamental concepts to new undergraduate students. Additionally I enjoy demonstrating in practical and dicussion based classes in geochemistry and chemical oceanography. Previous modules I have taught on include: <br/>
-  **University of Leeds**
+**University of Leeds**
   * SEE1135- Foundation Chemistry for Earth Sciences
   * SEE2010- Chemistry of the Earth <br/>
-  **University of Exeter**
+**University of Exeter**
   * BIO1331- Fundamental Principles in Biosciences
   ."""
 
