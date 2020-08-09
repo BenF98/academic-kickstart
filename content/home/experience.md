@@ -52,7 +52,7 @@ This project was supported by grants awards to Changing Arctic Ocean ChAOS, NERC
   company = ""
   company_url = ""
   location = ""
-  date_start = ""
+  date_start = "2019-06-01"
   date_end = ""
   description = """ I have teaching experience on multiple modules across different universities. I am particuarly interested in skills based modules, desgined to teach fundamental concepts to new undergraduate students. Additionally I enjoy demonstrating in practical and dicussion based classes in geochemistry and chemical oceanography. Previous modules I have taught on include:
   **University of Leeds**
