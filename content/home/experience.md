@@ -18,11 +18,11 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "PhD Researcher"
+  company = "University of Edinburgh"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Edinburgh, UK"
+  date_start = "2020-09-01"
   date_end = ""
   description = """
  Thesis title: How do climate-driven shifts in phytoplankton composition influence carbon and nitrogen uptake and recycling along the west Antarctic Peninsula?
@@ -31,11 +31,11 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Professor"
-  company = "University X"
+  company = "University of Leeds"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Leeds, UK"
+  date_start = "2019-07-01"
+  date_end = "2020-07-01"
+  description = """Thesis title: The role of iron bound carbon for organic matter preservation and global climate systems: an experimental approach. Supervised by Dr Christian März, Prof Caroline Peacock, Dr Johan Faust and Dr Oliver Moore. In this project I investigated the role of carboxyl groups in a preservative sorption mechanism of organic carbon to reactive iron phases in marine sediments. This involved using an experimental approach to synthesise organic-ferrihydrite compounds and applying a chemical extraction to these in order to better understand the specificity of this extraction technique for quantifying iron bound carbon. From this study we were able to quantify uncertainties in techniques used to quantify preserved organic carbon on a global scale and suggest improvements to reduce these uncertainties. This project was supported by grants awards to Changing Arctic Ocean ChAOS, NERC and MinORG, ERC."""
 
 +++
