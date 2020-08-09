@@ -5,7 +5,7 @@
 name = "Raleway"
 
 # Optional Google font URL
-google_fonts = "family=Raleway"
+google_fonts = "family=Raleway:wght@400"
 
 # Font families
 heading_font = "Raleway"
