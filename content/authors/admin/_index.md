@@ -32,10 +32,10 @@ education:
     year: 
   - course: MSc by Research in Earth Sciences
     institution: University of Leeds
-    year: 2020
-  - course: BSc (Hons) in Biological Sciences (1st Class)
+    year: 
+  - course: BSc (Hons) in Biological Sciences
     institution: University of Exeter
-    year: 2019
+    year: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
