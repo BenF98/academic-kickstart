@@ -1,6 +1,6 @@
 ---
-title: An experimental approach to understanding the role of iron bound carbon
-  for organic matter preservation
+title: An experimental approach to understand the role of iron bound carbon for
+  organic matter preservation
 subtitle: "MSc Project "
 date: 2020-09-22T10:42:17.242Z
 draft: false
