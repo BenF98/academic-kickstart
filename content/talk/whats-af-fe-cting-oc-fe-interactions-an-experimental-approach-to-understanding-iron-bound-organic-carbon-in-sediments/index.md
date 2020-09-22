@@ -1,6 +1,6 @@
 ---
 title: What's af(Fe)cting OC-Fe interactions? An experimental approach to
-  understanding iron bound organic carbon in sediments.
+  understanding iron bound organic carbon in sediments. EGU 2020
 abstract: >
   Drawdown of atmospheric CO2 over geologic timescales is largely controlled by
   imbalances in the
@@ -75,4 +75,4 @@ image:
   preview_only: true
   caption: Presenting at my first international conference from my bedroom.
 ---
-![](anyconv.com__evzegj-xgaacaja.jpg)
+![](anyconv.com__evzegj-xgaacaja.jpg "Presenting at my first international conference from my bedroom.")
