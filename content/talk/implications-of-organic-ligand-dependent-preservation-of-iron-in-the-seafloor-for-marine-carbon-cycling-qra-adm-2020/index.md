@@ -81,8 +81,6 @@ Presenting at QRA 2020
 
 ![](anyconv.com__en1pkcdxuaa8dyd.jpg)
 
-![](anyconv.com__en1pkcdxuaa8dyd.jpg "Presentation at QRA 2020")
+![]()
 
-![](anyconv.com__en1pkcdxuaa8dyd.jpg "Presentation at QRA 2020")
-
-![](anyconv.com__en1pkcdxuaa8dyd.jpg "Presentation at QRA 2020")
+![]()
