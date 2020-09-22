@@ -27,4 +27,4 @@ This project was supported by grants awards to Changing Arctic Ocean ChAOS, NERC
 
 ![](2.jpg)
 
-Heating samples up to 1500°C for % carbon determination.
+*Heating samples up to 1500°C for % carbon determination.*
