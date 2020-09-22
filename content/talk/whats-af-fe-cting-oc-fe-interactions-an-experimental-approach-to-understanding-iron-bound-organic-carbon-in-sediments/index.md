@@ -66,7 +66,7 @@ event: EGU 2020
 event_url: https://www.egu2020.eu/
 publishDate: 2020-05-08T09:00:57.264Z
 draft: false
-featured: false
+featured: true
 authors:
   - ""
 image:
@@ -75,3 +75,4 @@ image:
   preview_only: true
   caption: Presenting at my first international conference from my bedroom.
 ---
+![](anyconv.com__evzegj-xgaacaja.jpg)
