@@ -67,9 +67,11 @@ event_url: https://www.egu2020.eu/
 publishDate: 2020-05-08T09:00:57.264Z
 draft: false
 featured: false
+authors:
+  - ""
 image:
   filename: anyconv.com__evzegj-xgaacaja.jpg
-  focal_point: Smart
+  focal_point: TOPRIGHT
   preview_only: true
   caption: Presenting at my first international conference from my bedroom.
 ---
