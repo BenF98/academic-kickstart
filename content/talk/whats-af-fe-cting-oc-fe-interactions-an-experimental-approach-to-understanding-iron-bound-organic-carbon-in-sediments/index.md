@@ -70,6 +70,6 @@ featured: false
 image:
   filename: anyconv.com__evzegj-xgaacaja.jpg
   focal_point: Smart
-  preview_only: false
+  preview_only: true
   caption: Presenting at my first international conference from my bedroom.
 ---
