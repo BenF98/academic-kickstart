@@ -68,7 +68,11 @@ publishDate: 2020-05-08T09:00:57.264Z
 draft: false
 featured: true
 authors:
-  - ""
+  - Ben Fisher
+  - Christian März
+  - Johan Faust
+  - Oliver Moore
+  - Caroline Peacock
 image:
   filename: anyconv.com__evzegj-xgaacaja.jpg
   focal_point: TOPRIGHT
