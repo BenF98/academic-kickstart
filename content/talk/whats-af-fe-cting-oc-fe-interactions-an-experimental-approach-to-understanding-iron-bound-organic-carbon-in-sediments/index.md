@@ -79,4 +79,6 @@ image:
   preview_only: true
   caption: Presenting at my first international conference from my bedroom.
 ---
-![](anyconv.com__evzegj-xgaacaja.jpg "Presenting at my first international conference from my bedroom.")
+Presenting at my first international conference from my bedroom.
+
+![](anyconv.com__evzegj-xgaacaja.jpg)
