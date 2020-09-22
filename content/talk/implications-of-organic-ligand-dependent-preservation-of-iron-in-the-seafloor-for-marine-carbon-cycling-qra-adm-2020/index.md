@@ -77,7 +77,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Presenting at QRA 2020
+ **\    Presenting at QRA 2020**
 
 ![](anyconv.com__en1pkcdxuaa8dyd.jpg)
 
