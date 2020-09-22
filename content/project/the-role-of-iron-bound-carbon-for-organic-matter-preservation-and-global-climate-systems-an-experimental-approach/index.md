@@ -11,7 +11,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-In this project I investigated the role of carboxyl groups in a preservative sorption mechanism of organic carbon to reactive iron phases in marine sediments. This involved using an experimental approach to synthesise organic-ferrihydrite compounds and applying a chemical extraction to these in order to better understand the specificity of this extraction technique for quantifying iron bound carbon. From this study we were able to quantify uncertainties in techniques used to quantify preserved organic carbon on a global scale and suggest improvements to reduce these uncertainties.
+In this project I investigated the role of carboxyl groups in a preservative sorption mechanism of organic carbon to reactive iron phases in marine sediments. This involved using an experimental approach to synthesise organic-ferrihydrite compounds with known carbon and iron contents. A chemical extraction technique (CBD) was then applied to these samples in order to better understand the specificity of this extraction technique for quantifying the iron bound carbon pool. From this study we were able to quantify uncertainties in techniques used to quantify preserved organic carbon on a global scale and suggest improvements to reduce these uncertainties.
 
 This project was supported by grants awards to Changing Arctic Ocean ChAOS, NERC and MinORG, ERC.
 
